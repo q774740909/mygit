@@ -13,7 +13,7 @@
 
 # 框架方面
 
-##应用框架
+## 应用框架
 
 - ~~ssh（spring+stucts+hibernate）~~已经过时
 - ssm（spring+springmvc+mybatis）
@@ -42,3 +42,10 @@
 
 - Docker 容器化
 - k8s kubernetes
+
+# 关注源码/性能
+
+- JDK源码以及部分设计思想
+- Spring 源码
+- JVM细节与排错
+- 高并发/高可用
